@@ -10,6 +10,7 @@ function Sobre(){
                     <Menu />
                 </div>
             </div>
+            <h1>Anything</h1>
         </div>
     )
 }
